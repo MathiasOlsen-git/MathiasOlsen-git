@@ -31,3 +31,5 @@ Shipments per Weekday: A bar chart displaying shipments by weekday, with Tuesday
 10 Lowest Selling Products: A treemap showing the least popular products, including Smooth Silky Salty and 70% Dark Bites.
 
 This page provides a clear overview of sales performance, identifies top and bottom-performing products, and highlights seasonal trends.
+
+![Sales Performance](images/git2.PNG)
