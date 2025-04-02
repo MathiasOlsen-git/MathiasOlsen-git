@@ -1,4 +1,5 @@
 # Chocolate Bar Factory
+![Dashboard Overview](images/git1.png)
 
 ## Problem Statement
 
