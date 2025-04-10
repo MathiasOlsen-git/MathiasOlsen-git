@@ -33,3 +33,38 @@ Shipments per Weekday: A bar chart displaying shipments by weekday, with Tuesday
 This page provides a clear overview of sales performance, identifies top and bottom-performing products, and highlights seasonal trends.
 
 ![Sales Performance](images/git2.PNG)
+
+This page of the Chocolate Sales Power BI report focuses on sales performance analysis across sales representatives, products, and regions.
+
+What's Included?
+Top 5 Sellers (Pie Chart): Visualizes the top-performing salespeople by total revenue share.
+
+Sales Over Time per Salesperson (with Trend Line): Displays individual sales trends over time, with an overall trend line to identify general performance patterns.
+
+Sales and Shipments by Salesperson: Highlights total sales per individual alongside the number of shipments made.
+
+Product Sales by Region: A heatmap-style matrix showing how each chocolate product performs in Americas, APAC, and Europe.
+
+Salesperson Performance by Region: Compares how each salesperson performs across different regions.
+
+Purpose
+This page aims to provide insights into:
+
+Which salespeople drive the most revenue
+
+Regional product preferences and market strengths
+
+Performance trends over time
+
+The relationship between number of shipments and total sales
+
+Tools & Techniques
+Power BI
+
+DAX for calculated measures and KPIs
+
+Custom visuals for clarity and interactivity
+
+Conditional formatting to highlight performance differences
+
+
