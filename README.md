@@ -2,7 +2,6 @@
 
 ![Dashboard Overview](images/git1.PNG)
 
-## Problem Statement
 
 Key Performance Indicators (KPIs):
 
